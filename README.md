@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u95ut08jrixkx2j8?svg=true)](https://ci.appveyor.com/project/ns-morozova/math-log-trig)
